@@ -5,12 +5,12 @@ layout: workshop      # DON'T CHANGE THIS.
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Zoom (link sent to participants via email)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
-humandate: "Feb 6, 13 and 20, 2021 "    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "14h-17h"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "Feb 23rd & Mar 2nd 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "14h-16h30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: FIXME      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: FIXME        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Joana Viana"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-email: ["jffpviana@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["j.viana@bham.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
